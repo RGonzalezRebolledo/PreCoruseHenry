@@ -1,4 +1,4 @@
-/* a:link {
+a:link {
     color: rgb(15, 15, 15);
     font-weight: bold;
   }
@@ -6,7 +6,7 @@
   a:visited {
     color: rgb(20, 18, 20);
     font-weight: bold;
-  } */
+  }
 
   div {
     display: flex;
